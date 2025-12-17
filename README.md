@@ -19,9 +19,13 @@ A web application that predicts a user’s MBTI personality type by comparing th
 ## 🔧 Installation
 1. Clone the repository  
    ```bash
-   git clone https://github.com/jueeeeeen/MBTI_Prediction.git
+   git clone https://github.com/jueeeeeen/MBTI-Prediction.git
    ```
-2. Install dependencies
+2. Navigate into the frontend folder
+    ```bash
+   cd MBTI-Prediction
+   ```
+3. Install dependencies
     ```bash
    pip install -r web_app/backend/requirements.txt
    npm install
