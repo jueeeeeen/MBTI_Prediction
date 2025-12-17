@@ -1,22 +1,22 @@
-# MBTI Prediction
+# 👤 MBTI Prediction
 A web application that predicts a user’s MBTI personality type by comparing their test responses with existing personality dataset using Pearson similarity.
 
-## Demo
+## 🖼️ Demo
 ![screenshot](./docs/homepage.png)
 ![screenshot](./docs/test.png)
 ![screenshot](./docs/result.png)
 
-## Tech Stack
+## 🛠️ Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS  
 - **Backend:** Python, FastAPI, Uvicorn
 
-## Features
+## ✨ Features
 - **MBTI Personality Test** – allows users to complete a personality questionnaire.
 - **Result Display** – shows the predicted MBTI type along with similarity scores for other types.
 - **MBTI Type Information** - provides additional details about each MBTI personality type.
 - **Theory Explanation** - provides additional details about the theory used in prediction.
 
-## Installation
+## 🔧 Installation
 1. Clone the repository  
    ```bash
    git clone https://github.com/jueeeeeen/MBTI_Prediction.git
@@ -27,7 +27,7 @@ A web application that predicts a user’s MBTI personality type by comparing th
    npm install
    ```
 
-## How to Run
+## 🚀 How to Run
 1. Start the development server
     #### Backend:
     ```
