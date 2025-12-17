@@ -21,7 +21,7 @@ A web application that predicts a user’s MBTI personality type by comparing th
    ```bash
    git clone https://github.com/jueeeeeen/MBTI-Prediction.git
    ```
-2. Navigate into the frontend folder
+2. Navigate into the folder
     ```bash
    cd MBTI-Prediction
    ```
